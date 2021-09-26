@@ -1,3 +1,3 @@
-module github.com/richardimaoka/grpc-sandbox
+module example.com/hello
 
 go 1.16
